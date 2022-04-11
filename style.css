@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.atag{
+    border-radius: 25px;
+    background-color: antiquewhite;
+    width: 500px;
+    height: 50px;
+    color: black;
+    padding-top: 13px;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.heading{
+    font-weight: bolder;
+    color: rgb(62, 62, 62);
+    width: 150px;
+}
